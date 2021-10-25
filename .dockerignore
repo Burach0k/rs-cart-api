@@ -1,0 +1,11 @@
+# ненужные зависимости
+node_modules/
+
+# старый билд
+dist/
+
+# неиспользуемые директории
+.git/
+.elasticbeanstalk/
+README.md
+.prettierrc
